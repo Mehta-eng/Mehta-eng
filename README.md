@@ -76,16 +76,16 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mehta-eng&theme=dark&hide_border=true&include_all_commits=true&rank_icon=github" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Mehta-eng&theme=dark&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mehta-eng&show_icons=true&theme=dark&hide_border=false&include_all_commits=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Mehta-eng&theme=dark&hide_border=false" />
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehta-eng&theme=dark&hide_border=true&layout=compact" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehta-eng&theme=dark&hide_border=false&layout=compact" />
 
 <br/><br/>
 
-<img src="https://visitcount.itsvg.in/api?id=Mehta-eng&icon=0&color=0" />
+<img src="https://komarev.com/ghpvc/?username=Mehta-eng&style=for-the-badge" />
 
 </div>
 
