@@ -2,7 +2,7 @@
 <div align="center">
 
 ### 🚀 *Computational Structural Engineer*  
-### 🤖 *ML-Driven Mechanics | Resilient & Sustainable Infrastructure*
+### 🔬 *ML-Driven Mechanics | Resilient & Sustainable Infrastructure*
 
 <br/>
 
