@@ -1,29 +1,7 @@
-# 👨‍🔬 Vikas Mehta | Structural Engineering + Machine Learning
+# Vikas Mehta | Structural Engineering 
 
 🚀 *Computational Structural Engineer | ML-Driven Mechanics | Resilient & Sustainable Infrastructure*
-## 🧰 Technical Skill Set
 
-### 🏗️ Structural & Seismic Analysis
-- **ETABS**, **OpenSees**, **SeismoSoft**, **AutoCAD**
-
-### 🔩 Finite Element Modeling
-- **Abaqus/CAE** (nonlinear material modeling, buckling, Riks)
-- **MATLAB** (custom solvers, post-processing)
-
-### 📊 Data Analytics & Visualization
-- **Python**, **R**
-- **OriginPro**, **SPSS**
-- **Matplotlib**, **Plotly**, **Seaborn**
-
-### 🌐 Geospatial & Risk Analysis
-- **Q-GIS**
-
-### 🤖 Machine Learning & AI
-- **PyTorch**, **TensorFlow**, **Keras**
-- **scikit-learn**, **WEKA**
-- Neuro-intelligent & hybrid ML frameworks
-
----
 
 ## 💻 Computational & ML Stack
 
