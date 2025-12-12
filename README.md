@@ -1,41 +1,6 @@
-# 👨‍🔬 Vikas Mehta | Structural Engineering × Machine Learning
+# 👨‍🔬 Vikas Mehta | Structural Engineering + Machine Learning
 
 🚀 *Computational Structural Engineer | ML-Driven Mechanics | Resilient & Sustainable Infrastructure*
-
-I am a **research-focused civil/structural engineer** working at the intersection of  
-**structural mechanics, nonlinear analysis, and machine learning**, with the goal of  
-**enhancing resilience, safety, and sustainability of civil infrastructure systems**.
-
-My work integrates **physics-based modeling**, **finite-element simulation**, and  
-**data-driven intelligence** to solve complex engineering problems that are difficult  
-to address using traditional code-based approaches alone.
-
----
-
-## 🔬 Research Focus & Expertise
-
-🧠 **Machine Learning for Structural Engineering**
-- Physics-informed ML (ANN, DNN, GNN, hybrid models)
-- Data-driven prediction of strength, damage, and failure modes
-- Model interpretability (SHAP, feature importance, sensitivity analysis)
-
-🏗️ **Nonlinear Structural Analysis**
-- Seismic and wind-induced performance assessment
-- Nonlinear static & dynamic analysis (pushover, IDA, Riks)
-- Fragility, reliability, and probabilistic capacity modeling
-
-🌱 **Sustainable & Advanced Construction Materials**
-- Recycled plastic aggregate concrete (RPAC)
-- SCC, high-performance and eco-efficient concretes
-- Strength optimization and durability assessment using ML
-
-🌍 **Resilience & Risk-Based Engineering**
-- Fragility curves & collapse probability modeling
-- Reliability-based design calibration
-- Performance-based assessment of critical infrastructure
-
----
-
 ## 🧰 Technical Skill Set
 
 ### 🏗️ Structural & Seismic Analysis
@@ -83,20 +48,6 @@ to address using traditional code-based approaches alone.
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Mehta-eng&theme=dark&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehta-eng&theme=dark&hide_border=false&layout=compact)
 
----
 
-## 🤝 Collaboration & Research Interests
 
-I am actively interested in collaborations on:
-- **ML-assisted structural design**
-- **Physics-informed neural networks**
-- **Performance-based seismic/wind engineering**
-- **Sustainable materials & resilience modeling**
 
-📬 *Open to research collaborations, postdoctoral opportunities, and interdisciplinary projects.*
-
----
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=Mehta-eng&icon=0&color=0)
-
-<!-- Crafted for advanced research-oriented GitHub profiles -->
