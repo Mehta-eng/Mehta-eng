@@ -89,8 +89,6 @@
 
 <div align="center">
 
-### 🌍 *Research-Driven Code | Physics-Informed Intelligence | Engineering Impact*
-
 ![Visitor Count](https://visitcount.itsvg.in/api?id=Mehta-eng&icon=0&color=0)
 
 </div>
