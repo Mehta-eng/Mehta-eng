@@ -1,8 +1,9 @@
 <div align="center">
 <div align="center">
 
-### 🚀 *Computational Structural Engineer*  
-### 🔬 *ML-Driven Mechanics | Resilient & Sustainable Infrastructure*
+### *Computational Structural Engineer*  
+### *ML-Driven Mechanics | Resilient & Sustainable Infrastructure*
+
 
 <br/>
 
