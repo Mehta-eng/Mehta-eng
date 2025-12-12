@@ -1,14 +1,23 @@
 <div align="center">
 
-# **Vikas Mehta | PhD**
+# 👨‍🔬 **Vikas Mehta | PhD**
 
 ### 🚀 *Computational Structural Engineer*  
 ### 🤖 *ML-Driven Mechanics | Resilient & Sustainable Infrastructure*
 
+🔹 Physics-informed modeling & data-driven intelligence  
+🔹 Nonlinear structural analysis • Machine learning • Reliability engineering
+
 ---
 
-🔹 *Bridging physics-based modeling with data-driven intelligence*  
-🔹 *Nonlinear structural analysis • Machine learning • Reliability engineering*
+### 🌐 **Connect & Explore My Work**
+
+<a href="https://sites.google.com/view/vikasmehta" target="_blank">
+  <img src="https://img.shields.io/badge/Website-Research%20Portfolio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/feed/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
@@ -63,7 +72,3 @@
 ![Visitor Count](https://visitcount.itsvg.in/api?id=Mehta-eng&icon=0&color=0)
 
 </div>
-
-
-
-
