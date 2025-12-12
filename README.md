@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍🔬 **Vikas Mehta | PhD**
+# **Vikas Mehta | PhD**
 
 ### 🚀 *Computational Structural Engineer*  
 ### 🤖 *ML-Driven Mechanics | Resilient & Sustainable Infrastructure*
