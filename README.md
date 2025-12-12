@@ -1,4 +1,4 @@
-# Vikas Mehta | Structural Engineering 
+# Vikas Mehta | Phd
 
 🚀 *Computational Structural Engineer | ML-Driven Mechanics | Resilient & Sustainable Infrastructure*
 
