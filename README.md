@@ -72,20 +72,13 @@
 
 ---
 
-## 📊 **GitHub Analytics & Research Activity**
+## 📊 GitHub Analytics & Research Activity
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mehta-eng&show_icons=true&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Mehta-eng&theme=dark&hide_border=true)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mehta-eng&show_icons=true&theme=dark&hide_border=false&include_all_commits=true" />
-<img width="49%" src="https://streak-stats.demolab.com?user=Mehta-eng&theme=dark&hide_border=false" />
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mehta-eng&theme=dark&hide_border=true&layout=compact)
 
-<br/><br/>
+![Profile Views](https://komarev.com/ghpvc/?username=Mehta-eng&style=for-the-badge)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehta-eng&theme=dark&hide_border=false&layout=compact" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Mehta-eng&style=for-the-badge" />
-
-</div>
 
