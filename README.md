@@ -72,13 +72,7 @@
 
 ---
 
-## 📊 GitHub Analytics & Research Activity
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mehta-eng&show_icons=true&theme=dark&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=Mehta-eng&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mehta-eng&theme=dark&hide_border=true&layout=compact)
-
+## 📊 GitHub Analytics 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mehta-eng&style=for-the-badge)
 
 
