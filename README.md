@@ -48,7 +48,11 @@
 
 ![R](https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white)
-🌍 Geospatial Analysis, 📊 Data Analysis & Visualization
+![Geospatial Analysis](https://img.shields.io/badge/Geospatial%20Analysis-2ECC71.svg?style=for-the-badge&logo=qgis&logoColor=white)
+![Data Analysis & Visualization](https://img.shields.io/badge/Data%20Analysis%20%26%20Visualization-3498DB.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Structural Analysis](https://img.shields.io/badge/Structural%20Analysis-8E44AD.svg?style=for-the-badge)
+![Finite Element Modeling](https://img.shields.io/badge/Finite%20Element%20Modeling-E67E22.svg?style=for-the-badge)
+
 
 </div>
 
