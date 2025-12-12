@@ -48,6 +48,7 @@
 
 ![R](https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white)
+🌍 Geospatial Analysis, 📊 Data Analysis & Visualization
 
 </div>
 
