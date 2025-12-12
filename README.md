@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍🔬 **Vikas Mehta | PhD**
+# **Vikas Mehta | PhD**
 
 ### 🚀 *Computational Structural Engineer*  
 ### 🤖 *ML-Driven Mechanics | Resilient & Sustainable Infrastructure*
@@ -17,6 +17,9 @@
 </a>
 <a href="https://www.linkedin.com/feed/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://orcid.org/0000-0002-9275-7224" target="_blank">
+  <img src="https://img.shields.io/badge/ORCID-000000?style=for-the-badge&logo=orcid&logoColor=white"/>
 </a>
 
 </div>
