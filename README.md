@@ -1,12 +1,22 @@
 <div align="center">
-
-# **Vikas Mehta | PhD**
+<div align="center">
 
 ### 🚀 *Computational Structural Engineer*  
 ### 🤖 *ML-Driven Mechanics | Resilient & Sustainable Infrastructure*
 
-🔹 Physics-informed modeling & data-driven intelligence  
-🔹 Nonlinear structural analysis • Machine learning • Reliability engineering
+<br/>
+
+![Physics--Informed Modeling](https://img.shields.io/badge/Physics--Informed%20Modeling-1F618D.svg?style=for-the-badge)
+![Data--Driven Intelligence](https://img.shields.io/badge/Data--Driven%20Intelligence-117A65.svg?style=for-the-badge)
+
+<br/>
+
+![Nonlinear Structural Analysis](https://img.shields.io/badge/Nonlinear%20Structural%20Analysis-6C3483.svg?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-D35400.svg?style=for-the-badge)
+![Reliability Engineering](https://img.shields.io/badge/Reliability%20Engineering-2E4053.svg?style=for-the-badge)
+
+</div>
+
 
 ---
 
