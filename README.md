@@ -1,9 +1,12 @@
 <div align="center">
 <div align="center">
 
-### *Computational Structural Engineer*  
-### *ML-Driven Mechanics | Resilient & Sustainable Infrastructure*
+<div align="center">
 
+<h3 style="color:#1f2937;">Computational Structural Engineer</h3>
+<h3 style="color:#0f172a;">ML-Driven Mechanics | Resilient & Sustainable Infrastructure</h3>
+
+</div>
 
 <br/>
 
