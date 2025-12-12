@@ -40,7 +40,7 @@
 
 ---
 
-## 💻 **Computational & Machine Learning Stack**
+## 💻 **Computational Intelligence & Structural Modeling Stack**
 
 <div align="center">
 
