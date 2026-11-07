@@ -12,7 +12,7 @@
 ![Machine Learning](https://img.shields.io/badge/Focus-Machine%20Learning-D35400?style=plastic)
 ![Reliability Engineering](https://img.shields.io/badge/Focus-Reliability%20Engineering-2E4053?style=plastic)
 
-🔬 **Vikas Mehta** is a **Computational Structural Engineer** working at the intersection of **physics-informed modeling**, **data-driven intelligence**, and **ML-driven mechanics**. Research interests include **nonlinear structural analysis**, **machine learning**, **reliability engineering**, and **finite element modeling**, with an emphasis on **resilient and sustainable infrastructure**. 🌐 Explore projects and research through the [research portfolio](https://sites.google.com/view/vikasmehta).
+**Dr. Vikas Mehta** is a **Computational Structural Engineer** working at the intersection of **physics-informed modeling**, **data-driven intelligence**, and **ML-driven mechanics**. Research interests include **nonlinear structural analysis**, **machine learning**, **reliability engineering**, and **finite element modeling**, with an emphasis on **resilient and sustainable infrastructure**. 🌐 Explore projects and research through the [research portfolio](https://sites.google.com/view/vikasmehta).
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
